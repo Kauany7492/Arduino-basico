@@ -1,5 +1,8 @@
 /*
 Neste arquivo você vera como ligar um LED utilizando o arduino
+
+Veja o projeto de maneira visual no link a seguir:
+https://wokwi.com/projects/391436486221024257
 */
 
 void setup()  // Todo o código que está dentro dessa função(própria do arduino IDE) é executada apenas uma vez no início do programa.
